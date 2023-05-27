@@ -25,7 +25,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     - [Notebooks](#notebooks)
     - [Videos](#videos)
     - [Articles](#articles)
-  - [Proprietary](#proprietary)
   - [Alternatives](#alternatives)
   - [Complement to this list](#complement-to-this-list)
 
@@ -72,7 +71,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 - [LangchainJS Worker](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social)
 - [Chainlit](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
-- [Zep](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications
+- [Zep](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
+- [Gorilla](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 
 ### Agents
 
@@ -87,6 +87,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project ![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)
 - [SuperAgent](https://github.com/homanp/superagent): Deploy LLM Agents to production ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/superagent?style=social)
 - [ix](https://github.com/kreneskyp/ix): Autonomous GPT-4 agent platform
+- [DuetGPT](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
 
 ### Templates
 
@@ -193,6 +194,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [LangChain tutorial at PromptChap](https://promptchap.com)
 - [Create a Code Interpreter Chatbot with Pyodide, LangChain, and OpenAI](https://dylancastillo.co/code-interpreter-chatbot-pyodide-langchain-openai/)
 - [LangChain has added Cypher Search](https://towardsdatascience.com/langchain-has-added-cypher-search-cb9d821120d5)
+- [Langchain Decoded](https://alphasec.io/langchain-decoded-the-muggles-guide-to-langchain/)
 
 ## Alternatives
 
