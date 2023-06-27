@@ -74,6 +74,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Chainlit](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
 - [Zep](https://github.com/getzep/zep): Zep: A long-term memory store for LLM / Chatbot applications ![GitHub Repo stars](https://img.shields.io/github/stars/getzep/zep?style=social)
 - [Langchain Decorators](https://github.com/ju-bezdek/langchain-decorators): a layer on the top op LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
+- [FastAPI + Chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 
 ### Agents
 
@@ -91,14 +92,18 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 - [ix](https://github.com/kreneskyp/ix): Autonomous GPT-4 agent platform ![GitHub Repo stars](https://img.shields.io/github/stars/kreneskyp/ix?style=social)
 - [DuetGPT](https://github.com/kristoferlund/duet-gpt): A conversational semi-autonomous developer assistant, AI pair programming without the copypasta. ![GitHub Repo stars](https://img.shields.io/github/stars/kristoferlund/duet-gpt?style=social)
+- [Multi-Modal LangChain agents in Production](https://github.com/steamship-packages/langchain-agent-production-starter): Deploy LangChain Agents and connect them to Telegram ![GitHub Repo stars](https://img.shields.io/github/stars/steamship-packages/langchain-agent-production-starter?style=social)
 
 ### Templates
 
+- [AI](https://github.com/vercel-labs/ai): Vercel template to build AI-powered applications with React, Svelte, and Vue, fist class support for LanChain ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai?style=social)
 - [create-t3-turbo-ai](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
 - [LangChain.js LLM Template](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
 - [Streamlit Template](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
 - [Codespaces Template](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
 - [Gradio Template](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)
+- [AI Getting Started](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs ![GitHub Repo stars](https://img.shields.io/github/stars/a16z-infra/ai-getting-started?style=social)
+- [Embedchain](https://github.com/embedchain/embedchain): Framework to easily create LLM powered bots over any dataset. ![GitHub Repo stars](https://img.shields.io/github/stars/embedchain/embedchain?style=social)
 
 ### Platforms
 
@@ -115,6 +120,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Knowledge GPT](https://github.com/mmz-001/knowledge_gpt): Accurate answers and instant citations for your documents. ![GitHub Repo stars](https://img.shields.io/github/stars/mmz-001/knowledge_gpt?style=social)
 - [Knowledge](https://github.com/KnowledgeCanvas/knowledge): Knowledge is a tool for saving, searching, accessing, and exploring all of your favorite websites, documents and files. ![GitHub Repo stars](https://img.shields.io/github/stars/KnowledgeCanvas/knowledge?style=social)
 - [Anything LLM](https://github.com/Mintplex-Labs/anything-llm): A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces. ![GitHub Repo stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social)
+- [DocNavigator](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites ![GitHub Repo stars](https://img.shields.io/github/stars/vgulerianb/DocNavigator?style=social)
 
 ### Other / Chatbots
 
@@ -142,7 +148,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ChatGPT Langchain](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain): ChatGPT clone using langchain on Huggingface
 - [Chat Math Techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques): langchain chat with math techniques on Huggingface
 - [Notion QA](https://github.com/hwchase17/notion-qa): Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)
-- [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5 ![GitHub Repo stars](https://img.shields.io/github/stars/rituthombre/QNim?style=social)
+- [QNimGPT](https://huggingface.co/spaces/rituthombre/QNim): Play Nim against an IBM Quantum Computer simulator or OpenAI GPT-3.5
 - [ChatPDF](https://github.com/akshata29/chatpdf): ChatGPT + Enterprise data with Azure OpenAI ![GitHub Repo stars](https://img.shields.io/github/stars/akshata29/chatpdf?style=social)
 - [Chat with Scanned Documents](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
 - [snowChat ❄️](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
@@ -154,9 +160,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Cheshire Cat](https://github.com/cheshire-cat-ai/core): Custom AGI boT with ready-to-use chat integration and plugins development platform. ![GitHub Repo stars](https://img.shields.io/github/stars/cheshire-cat-ai/core?style=social)
 - [Got Chaat Bot](https://github.com/parker84/GoT-chat-bot): Repo for creating GoT Chatbots (ex: talk with Tyrion Lannister) ![GitHub Repo stars](https://img.shields.io/github/stars/parker84/GoT-chat-bot?style=social)
 - [Dialoqbase](https://github.com/n4ze3m/dialoqbase): web application that allows you to create custom chatbots with your own knowledge base ![GitHub Repo stars](https://img.shields.io/github/stars/n4ze3m/dialoqbase?style=social)
-- [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files. ![GitHub Repo stars](https://img.shields.io/github/stars/langchain/csv-ai?style=social)
+- [CSV-AI 🧠](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/snowflake.html): CSV-AI is the ultimate app powered by LangChain that allows you to unlock hidden insights in your CSV files.
 - [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI): Auto generate MindMap with ChatGPT ![GitHub Repo stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
-
+- [Robby-Chatbot](https://github.com/yvann-hub/Robby-chatbot): AI chatbot 🤖 for chat with CSV, PDF, TXT files 📄 and YTB videos 🎥 | using Langchain🦜 | OpenAI | Streamlit ⚡.
+- [AI Chatbot](https://github.com/vercel-labs/ai-chatbot): A full-featured, hackable Next.js AI chatbot built by Vercel Labs ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/ai-chatbot?style=social)
+- [Instrukt](https://github.com/blob42/Instrukt): A fully-fledged AI environment in the terminal. Build, test and instruct agents. ![GitHub Repo stars](https://img.shields.io/github/stars/blob42/Instrukt?style=social)
+- [OpenChat](https://github.com/openchatai/OpenChat/): LLMs custom-chatbots console ⚡. ![GitHub Repo stars](https://img.shields.io/github/stars/openchatai/OpenChat?style=social)
+- [Twitter Agent](https://github.com/ahmedbesbes/twitter-agent/): Scrape tweets, summarize them and chat with them in an interactive terminal
+  
 ## Learn
 
 ### Notebooks
@@ -238,6 +249,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [ReLLM](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. ![GitHub Repo stars](https://img.shields.io/github/stars/r2d4/rellm?style=social)
 - [OpenDAN](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. ![GitHub Repo stars](https://img.shields.io/github/stars/fiatrete/OpenDAN-Personal-AI-OS?style=social)
 - [LangChain4j](https://github.com/langchain4j/langchain4j): LangChain for Java
+- [OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/OpenLLM?style=social)
+- [FlagAI](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. ![GitHub Repo stars](https://img.shields.io/github/stars/FlagAI-Open/FlagAI?style=social)
+- [AI.JSX](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript ![GitHub Repo stars](https://img.shields.io/github/stars/fixie-ai/ai-jsx?style=social)
 
 ## Complement to this list
 
