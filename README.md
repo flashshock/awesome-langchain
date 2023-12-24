@@ -91,6 +91,7 @@ List of non-official ports of LangChain to other languages.
 - [FastAPI + Chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 - [AilingBot](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
 - [Llama2 Embedding Server](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+- [ChatAbstractions](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
 
 ### Agents
 
@@ -116,6 +117,7 @@ List of non-official ports of LangChain to other languages.
 - [BlockAGI](https://github.com/blockpipe/blockagi): BlockAGI conducts iterative, domain-specific research, and outputs detailed narrative reports to showcase its findings ![GitHub Repo stars](https://img.shields.io/github/stars/blockpipe/blockagi?style=social)
 - [waggledance.ai](https://github.com/agi-merge/waggle-dance): An opinionated, concurrent system of AI Agents. It implements Plan-Validate-Solve with data and tools for general goal-solving. ![GitHub Repo stars](https://img.shields.io/github/stars/agi-merge/waggle-dance?style=social)
 - [Elasticsearch Agent](https://github.com/onepointconsulting/elasticsearch-agent): ElasticSearch agent based on ElasticSearch, LangChain and GPT 4 ![GitHub Repo stars](https://img.shields.io/github/stars/onepointconsulting/elasticsearch-agent?style=social)
+- [CrewAI](https://github.com/joaomdmoura/crewai): Cutting-edge framework for orchestrating role-playing, autonomous AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/joaomdmoura/crewai?style=social)
 
 ### Templates
 
